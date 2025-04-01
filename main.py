@@ -6,3 +6,5 @@ v = 65
 
 print(a * b)
 print(c * v)
+print(c * b)
+# qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
