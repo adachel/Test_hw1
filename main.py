@@ -8,5 +8,3 @@ print(a * b)
 print(c * v)
 print(c * b)
 # qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-
-print(a + c + b + v)
