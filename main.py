@@ -8,9 +8,5 @@ e = 55
 
 print(a * b)
 
-print(c + e)
-
-print(d - a)
-
 
 
