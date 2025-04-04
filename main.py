@@ -5,6 +5,7 @@ d = 31
 e = 55
 
 print(a * b)
+print(c + e)
 
 
 
